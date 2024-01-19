@@ -24,7 +24,7 @@ Esse projeto é uma página de links de direcionamento para Redes sociais.
 
 <br>
 
-Acesse o projeto: <a href="#" target="_blank">Clique aqui</a>
+Acesse o projeto: <a href="https://paulobritto34.github.io/Desafio_Frontend_Mentor_Social_links_profile_main/" target="_blank">Clique aqui</a>
 
 <br>
 
