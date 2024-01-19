@@ -20,8 +20,8 @@ main {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin: 25vh auto 10rem;
-    width: 32rem;
+    margin: 8.5rem auto 2rem;
+    max-width: 32rem;
     box-sizing: content-box;
     padding: 3.2rem;
     background: hsl(0, 0%, 12%);
